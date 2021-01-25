@@ -2,7 +2,7 @@
 
 Project developed aiming to practice NodeJS from scratch with an application that allows authenticated users to access certain routes.
 
-<i>To see the front-end project, click [here](https://github.com/biagavirete/fromzero_frontend).<br>
+<i>To see the front-end project, click [here](https://github.com/biagavirete/fromzero_frontend).</i><br>
 
 ## Getting started
 
